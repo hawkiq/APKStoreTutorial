@@ -1,0 +1,6 @@
+Options -Indexes
+
+RewriteEngine on
+RewriteRule ^index.html$ index.php
+RewriteRule ^category.html$ cat.php
+RewriteRule ^app-([0-9]+)$ app.php?id=$1

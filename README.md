@@ -9,4 +9,4 @@ Files for IQ TECH Tutorials on Youtube
 
 ## Pagination Class
 
-<a href="https://github.com/hawkiq/APKStoreTutorial/blob/master/pagination.php">View Class</a>
+<a href="https://github.com/hawkiq/APKStoreTutorial/blob/master/includes/pagination.php">View Class</a>

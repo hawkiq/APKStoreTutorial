@@ -9,6 +9,8 @@
  * db.php
  */
 session_start();
+date_default_timezone_set('Asia/Baghdad');
+
 $DbHost = 'localhost';
 $DbUser = 'root';
 $DbPass = '7632431o';

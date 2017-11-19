@@ -174,7 +174,9 @@ if (isset($_POST['upload'])){
                             <div class="col-md-10">
                                 <select id="filecat" name="filecat" class="form-control" required>
                                     <?php
-                                    $sql = "SELECT * FROM `category`";
+		
+			 
+			  $sql = "SELECT * FROM `category`";
                                     $q = mysqli_query($connect,$sql);
                                     if (mysqli_affected_rows($connect) > 0){
                                         while ($data = mysqli_fetch_assoc($q)){

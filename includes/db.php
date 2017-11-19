@@ -13,7 +13,7 @@ date_default_timezone_set('Asia/Baghdad');
 
 $DbHost = 'localhost';
 $DbUser = 'root';
-$DbPass = '7632431o';
+$DbPass = '123456';
 $DbName = 'apkstore';
 
 global $connect;
